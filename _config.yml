@@ -1,0 +1,20 @@
+# Informations sur le site
+title: Carole Pons-Bachmann
+logo: /assets/img/profile.PNG
+description: Data Analyst & Experte Environnement | Donner du sens aux données pour éclairer des décisions durables.
+show_downloads: false
+
+# Configuration du thème
+theme: jekyll-theme-minimal
+
+# Liens sociaux et contact
+linkedin_username: carole-pons-bachmann
+github_username: caroleponsbachmann-bit
+
+# Personnalisation des boutons (optionnel)
+header_pages:
+  - index.md
+
+# Paramètres de construction
+plugins:
+  - jekyll-remote-theme # Permet à GitHub Pages de charger le thème correctement
