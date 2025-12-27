@@ -2,7 +2,7 @@
 title: Carole Pons-Bachmann
 logo: /assets/img/profile.PNG
 description: Data Analyst & Experte Environnement
-show_downloads: false
+show_downloads: True
 
 # Configuration du thème
 theme: jekyll-theme-minimal
