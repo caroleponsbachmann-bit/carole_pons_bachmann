@@ -44,7 +44,8 @@ Je maîtrise aujourd'hui **Power BI, SQL et Python**, et mes projets récents in
 * **Analyse environnementale :** Estimation de l'empreinte carbone évitée à partir de sources officielles (ADEME, ECO-TLC, INSEE).
 * **Impact :** 576 tonnes de CO₂ évitées estimées et analyse de performance sur un échantillon de 14,8 M de transactions.
 * **Stack :** Python | SQL | Power BI | DAX
-* 👉 [**Démo Interactive**](https://app.powerbi.com/view?r=eyJrIjoiYmE3ZDk3N2YtY2JlZS00NDIzLWI1OGEtMTc2MjhjMTA1ZDkyIiwidCI6IjJlMzgyMzJkLTJhOTUtNGI2YS04MzY3LWYxY2NhYTg5YTg3MSJ9)
+  
+[![Voir le dashboard](https://img.shields.io/badge/▶%20Voir%20le%20dashboard-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYmE3ZDk3N2YtY2JlZS00NDIzLWI1OGEtMTc2MjhjMTA1ZDkyIiwidCI6IjJlMzgyMzJkLTJhOTUtNGI2YS04MzY3LWYxY2NhYTg5YTg3MSJ9)
 
 ### 🧩 [Toys & Models — Dashboard de Pilotage Décisionnel](https://github.com/caroleponsbachmann-bit/Toys-Models-Project)
 
@@ -52,20 +53,22 @@ Je maîtrise aujourd'hui **Power BI, SQL et Python**, et mes projets récents in
 * **Missions :** Conception d’un modèle analytique (OLAP), développement de vues SQL complexes (CTE) et création d'un dashboard Power BI.
 * **Impact :** Automatisation du reporting et visibilité sur le CA (8,4M€) et les délais de livraison.
 * **Stack :** MySQL | SQL | Power BI | DAX
-* 👉 [**Démo Interactive**](https://app.powerbi.com/view?r=eyJrIjoiMGQ3ZDQ2MTgtMWIzZS00NWE3LTgyNDAtZDQyMzUwNDc5NDYyIiwidCI6IjJlMzgyMzJkLTJhOTUtNGI2YS04MzY3LWYxY2NhYTg5YTg3MSJ9)
+
+[![Voir le dashboard](https://img.shields.io/badge/▶%20Voir%20le%20dashboard-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMGQ3ZDQ2MTgtMWIzZS00NWE3LTgyNDAtZDQyMzUwNDc5NDYyIiwidCI6IjJlMzgyMzJkLTJhOTUtNGI2YS04MzY3LWYxY2NhYTg5YTg3MSJ9)
 
 ### 🗽 [Application Streamlit : New York Photobook](https://github.com/caroleponsbachmann-bit/appli_streamlit_photobook)
 **Objectif :** Développer une application web interactive sécurisée pour la gestion d'un album photo dynamique.
 * **Missions :** Gestion d'authentification utilisateur via Pandas/CSV et structuration d'une interface responsive sur Streamlit Cloud.
 * **Stack :** Python | Streamlit | Pandas.
-* 👉 [**Consulter l'Application**](https://appliappphotobook-5cmrwxdrhyc8vahsppchhs.streamlit.app/)
+  
+[![Lancer l'application](https://img.shields.io/badge/▶%20Lancer%20l'application-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://appliappphotobook-5cmrwxdrhyc8vahsppchhs.streamlit.app/)
 
 ### 🌟 [Landing Page : "Data by Night"](https://github.com/caroleponsbachmann-bit/caroleponsbachmann-bit.github.io)
 **Objectif :** Conception et déploiement d'une page web événementielle élégante pour une communauté Data.
 * **Missions :** Structuration HTML, stylisation CSS et hébergement via GitHub Pages.
 * **Stack :** HTML | CSS | GitHub Pages
-* 👉 [**Voir la Page**](https://caroleponsbachmann-bit.github.io/)
-
+  
+[![Voir la page](https://img.shields.io/badge/▶%20Voir%20la%20page-GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://caroleponsbachmann-bit.github.io/)
 ---
 
 ## 📘 Parcours & Expériences
