@@ -65,6 +65,7 @@ Je maîtrise aujourd'hui **Power BI, SQL et Python**, et mes projets récents in
 * **Missions :** Structuration HTML, stylisation CSS et hébergement via GitHub Pages.
 * **Stack :** HTML | CSS | GitHub Pages
 * [![Voir la page](https://img.shields.io/badge/▶%20Voir%20la%20page-GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)](https://caroleponsbachmann-bit.github.io/)
+  
 ---
 
 ## 📘 Parcours & Expériences
