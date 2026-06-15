@@ -26,6 +26,13 @@
   }
 }
 
+/* === Plus d'espace entre les projets === */
+/* Chaque projet commence par un titre de niveau 3 (### dans le markdown).
+   On ajoute une marge au-dessus pour aérer entre les projets. */
+section h3 {
+  margin-top: 2.5em;
+}
+
 /* Sécurité : les tableaux et le texte ne débordent jamais */
 table {
   width: 100%;
