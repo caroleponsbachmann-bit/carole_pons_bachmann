@@ -70,13 +70,17 @@ Je maîtrise aujourd'hui **Power BI, SQL et Python**, et mes projets récents in
 
 ## 📘 Parcours & Expériences
 
-* **2025–2026 : Certification professionnelle Data Analyst (RNCP 37429 — Niveau 6)** | Wild Code School
-    * Certifiée le 11/03/26. Collecte, préparation et automatisation du traitement des données & analyse, modélisation et visualisation.
-* **2013–2025 : Responsable des Ventes & Gestionnaire de Transport** | Scop Atmosph’airre
-    * Optimisation de tournées (réduction CO2) et pilotage de la relation client (3500 clients).
-* **2002–2012 : Commerciale & Commerciale itinérante** | Handi Terre 85 / Scop Atmosph’airre
-    * Développement de parts de marché sur les départements 17, 49, 79, 85.
-* **1999 : Maîtrise Science de l'environnement** | U.F.R SCIENCES ET TECHNIQUES, Brest
+* **2025–2026 : Certification professionnelle Data Analyst (RNCP 37429 — Niveau 6)** — Wild Code School
+  - Certifiée le 11/03/2026. Collecte, préparation, automatisation du traitement des données & analyse, modélisation et visualisation.
+* **2020–2025 : Gestionnaire de transport & performance logistique** — Scop Atmosph'airre
+  - Analyse des données d'exploitation (optimisation du remplissage, réduction CO₂) et suivi de la conformité environnementale.
+* **2013–2025 : Responsable des ventes** — Scop Atmosph'airre
+  - Promotion obtenue après avoir analysé les données de ventes, et proposé une nouvelle stratégie commerciale déterminante pour l'entreprise.
+* **2002–2012 : Commerciale** — Handi Terre / Scop Atmosph'airre
+  - Développement et gestion de portefeuilles clients (jusqu'à 3 500 clients).
+* **2000–2001 : Chef d'équipe** — Fédération Service Littoral (Bretagne)
+  - Management d'équipes de dépollution (30 personnes), pilotage administratif et logistique.
+* **1999 : Maîtrise Sciences de l'environnement** — U.F.R Sciences et Techniques, Brest
 
 ---
 
