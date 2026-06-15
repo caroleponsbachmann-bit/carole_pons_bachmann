@@ -1,14 +1,16 @@
 # 💡 Carole Pons-Bachmann
 ### **Data Analyst | Experte Environnement & Logistique** 📊🌱
 
-🔍 Passionnée par la donnée et l’efficacité opérationnelle, je transforme des problématiques métiers complexes en leviers d’action concrets. Mon objectif : apporter des insights clairs et porteurs d’impact — de la structuration des données à la visualisation stratégique.
+🔍 Analyser les chiffres pour décider, prioriser selon le business, intégrer les enjeux environnementaux : un réflexe forgé par le terrain en commerce B2B et logistique, que je mets au service de la data.
 
 ---
 
 ## 👩‍💻 À propos de moi
-Forte d'un riche parcours en gestion et pilotage de flux, j'allie aujourd'hui une solide expertise métier en environnement et logistique à des compétences techniques de pointe en analyse de données. 
+Mon parcours en **commerce B2B et logistique dans le secteur du recyclage** m'a appris à analyser et décider par les chiffres : gestion d'un portefeuille de 3 500 clients, développement de 25 comptes européens, management d'équipes et conformité réglementaire.
 
-Je combine rigueur analytique, curiosité technique et sens business pour produire des analyses à haute valeur ajoutée.
+Ces années sur le terrain m'ont montré les limites d'un simple tableur face à des données riches — quantités collectées, triées, vendues, tarifs... Pour les exploiter pleinement, je me suis formée comme **Data Analyst**. 
+Je maîtrise aujourd'hui **Power BI, SQL et Python**, et mes projets récents incluent l'analyse de 15 millions de transactions retail (H&M) et la construction d'un écosystème BI complet (Toys & Models).
+
 
 **Mes Soft Skills :**
 * 🧠 **Autonomie & Adaptabilité** — Capacité à monter rapidement en compétence sur de nouveaux outils.
