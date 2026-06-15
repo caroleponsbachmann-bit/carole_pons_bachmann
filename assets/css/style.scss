@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* === Personnalisation : élargir la zone de contenu === */
+
+/* Sur grands écrans, on élargit la colonne de droite (le contenu)
+   pour utiliser l'espace blanc inutilisé. */
+@media print, screen and (min-width: 961px) {
+  div.wrapper {
+    width: 1100px;        /* largeur totale (par défaut ~860px) */
+    margin: 0 auto;
+  }
+
+  section {
+    width: 700px;         /* largeur du contenu (par défaut ~500px) */
+  }
+
+  header {
+    width: 290px;         /* la colonne de gauche (titre, photo) reste pareille */
+  }
+
+  footer {
+    width: 290px;
+  }
+}
+
+/* Sécurité : les tableaux et le texte ne débordent jamais */
+table {
+  width: 100%;
+  display: table;
+}
+
+section img {
+  max-width: 100%;
+}
