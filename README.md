@@ -13,10 +13,11 @@ Je maîtrise aujourd'hui **Power BI, SQL et Python**, et mes projets récents in
 
 
 **Mes Soft Skills :**
-* 🧠 **Autonomie & Adaptabilité** — Capacité à monter rapidement en compétence sur de nouveaux outils.
-* 💬 **Communication** — Vulgarisation de données complexes pour les décideurs.
-* 🎯 **Rigueur** — Précision dans le traitement et l'interprétation des données.
-* 🤝 **Esprit d'équipe** — Habituée au travail collaboratif et aux méthodes agiles.
+
+* 🧠 **Esprit analytique** — Capacité à structurer un problème, analyser les données et en tirer des décisions.
+* 💬 **Communication & vulgarisation** — Rendre les données complexes claires pour les décideurs et les équipes métier.
+* 🤝 **Management & travail d'équipe** — Coordination d'équipes (jusqu'à 30 personnes) et collaboration en méthode agile.
+* 🎯 **Autonomie & adaptabilité** — Montée en compétence rapide sur de nouveaux outils et contextes.
 
 ---
 
