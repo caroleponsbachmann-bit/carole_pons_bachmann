@@ -1,7 +1,8 @@
 # 💡 Carole Pons-Bachmann
 ### **Data Analyst | Experte Environnement & Logistique** 📊🌱
 
-🔍 Analyser les chiffres pour décider, prioriser selon le business, intégrer les enjeux environnementaux : un réflexe forgé par le terrain en commerce B2B et logistique, que je mets au service de la data.
+🔍 Analyser les chiffres pour décider, prioriser selon le business, intégrer les enjeux environnementaux.  
+Ces réflexes, je les dois au terrain — commerce B2B et logistique — et je les mets aujourd'hui au service de la data.
 
 ---
 
