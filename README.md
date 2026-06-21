@@ -56,6 +56,15 @@ Je maîtrise aujourd'hui **Power BI, SQL et Python**, et mes projets récents in
 * **Stack :** MySQL | SQL | Power BI | DAX
 * [![Voir le dashboard](https://img.shields.io/badge/▶%20Voir%20le%20dashboard-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMGQ3ZDQ2MTgtMWIzZS00NWE3LTgyNDAtZDQyMzUwNDc5NDYyIiwidCI6IjJlMzgyMzJkLTJhOTUtNGI2YS04MzY3LWYxY2NhYTg5YTg3MSJ9)
 
+### 🎬 [FilmDataLab — Moteur de recommandation de films](https://github.com/caroleponsbachmann-bit/projet_recommandation_films)
+
+**Objectif :** Doter un cinéma local d'un outil de recommandation de films pour fidéliser son public et personnaliser son expérience, à partir des catalogues mondiaux IMDb & TMDB.
+* **Préparation des données :** Fusion des catalogues IMDb & TMDB (DuckDB, Pandas) et enrichissement via l'API TMDB, filtrage de 7 millions de titres bruts (films, séries, épisodes…) à 5 644 films exploitables.
+* **Moteur de recommandation :** Vectorisation des films (texte via TF-IDF, équipes, données chiffrées) et recherche des titres les plus proches par similarité cosinus (Scikit-learn), déployée dans une application Streamlit.
+* **Projet de groupe** (formation Wild Code School).
+* **Stack :** Python | Pandas | DuckDB | Scikit-learn | API TMDB | Streamlit
+* [![Lancer l'application](https://img.shields.io/badge/▶%20Lancer%20l'application-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://filmdatalab.streamlit.app/)
+
 ### 🗽 [Application Streamlit : New York Photobook](https://github.com/caroleponsbachmann-bit/appli_streamlit_photobook)
 **Objectif :** Développer une application web interactive sécurisée pour la gestion d'un album photo dynamique.
 * **Missions :** Gestion d'authentification utilisateur via Pandas/CSV et structuration d'une interface responsive sur Streamlit Cloud.
